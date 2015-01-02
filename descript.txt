@@ -1,4 +1,4 @@
 This is a text file for git testing!
 Openning this file of second time.
 Learn about stage--a temp area of git.
-Git is tracking change but not file!
+Git is tracking change but not file! Remember all the time!
